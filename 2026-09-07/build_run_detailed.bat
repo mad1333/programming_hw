@@ -4,5 +4,5 @@ if errorlevel 1 (
     echo Build failed.
     exit /b 1
 )
-echo Build succeeded. Running program...
+echo Build succeeded. 
 hello.exe
